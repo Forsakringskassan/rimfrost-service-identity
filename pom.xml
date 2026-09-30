@@ -30,9 +30,9 @@
       <artifactId>quarkus-hibernate-validator</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.awaitility</groupId>
-      <artifactId>awaitility</artifactId>
-      <scope>test</scope>
+      <groupId>se.fk.rimfrost.identity</groupId>
+      <artifactId>rimfrost-service-identity-openapi-jaxrs-spec</artifactId>
+      <version>0.0.1</version>
     </dependency>
   </dependencies>
 
